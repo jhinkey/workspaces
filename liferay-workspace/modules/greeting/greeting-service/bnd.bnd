@@ -1,0 +1,3 @@
+Bundle-Name: greeting-service
+Bundle-SymbolicName: com.liferay.docs.greeting.service
+Bundle-Version: 1.0.0
